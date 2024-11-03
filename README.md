@@ -1,10 +1,10 @@
 # ML Clustering Explorations
-This repository contains a series of notebooks exploring various clustering techniques in machine learning. Each notebook demonstrates different methods, compares their performance, and provides insights into their strengths and weaknesses. These explorations are useful for understanding clustering techniques in data science, such as how to choose the right method for different data structures and how these methods handle different clustering challenges.
+This repository contains a series of notebooks exploring various clustering techniques in machine learning. Each notebook demonstrates different methods, compares their performance, and provides insights into their strengths and weaknesses. These explorations are useful for understanding data science clustering techniques, such as choosing the right method for different data structures and how these methods handle different clustering challenges.
 
 ## Notebooks Overview
 
 1. **Comparing K-Means and DBSCAN Algorithms**  
-   This notebook explores two popular clustering algorithms, **K-Means** and **DBSCAN**. We compare their behavior on different datasets, examining how they respond to different shapes, densities, and distributions of data points.
+   This notebook explores two popular clustering algorithms, **K-Means** and **DBSCAN**. We compare their behavior on different datasets, examining how they respond to other shapes, densities, and distributions of data points.
 
 2. **Gaussian Mixture Models (GMM)**  
    This notebook dives into **Gaussian Mixture Models (GMM)** for clustering. We cover the probabilistic foundations of GMMs, model fitting, and visualization. The notebook highlights how GMMs can capture complex cluster shapes by assuming data comes from a mixture of Gaussian distributions.
@@ -30,6 +30,7 @@ This repository contains a series of notebooks exploring various clustering tech
 Install the required libraries using:
 ```bash
 pip install numpy pandas matplotlib seaborn scikit-learn
+```
 
 ### Repo Structure
 ML_Clustering_Explorations/
