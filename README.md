@@ -3,22 +3,22 @@ This repository contains a series of notebooks exploring various clustering tech
 
 ## Notebooks Overview
 
-1. **TP1: Machine Learning - Comparing K-Means and DBSCAN Algorithms**  
+1. **Comparing K-Means and DBSCAN Algorithms**  
    This notebook explores two popular clustering algorithms, **K-Means** and **DBSCAN**. We compare their behavior on different datasets, examining how they respond to different shapes, densities, and distributions of data points.
 
-2. **TP2: Machine Learning - Gaussian Mixture Models (GMM)**  
+2. **Gaussian Mixture Models (GMM)**  
    This notebook dives into **Gaussian Mixture Models (GMM)** for clustering. We cover the probabilistic foundations of GMMs, model fitting, and visualization. The notebook highlights how GMMs can capture complex cluster shapes by assuming data comes from a mixture of Gaussian distributions.
 
-3. **TP3: Machine Learning - Principal Component Analysis (PCA)**  
+3. **Principal Component Analysis (PCA)**  
    Here, we explore **Principal Component Analysis (PCA)** as a tool for dimensionality reduction and feature extraction. Although PCA isn’t a clustering method itself, this notebook demonstrates how it can aid clustering by reducing data dimensionality and improving the interpretability of results.
 
-4. **TP4: Machine Learning - Hierarchical Clustering**  
+4. **Hierarchical Clustering**  
    This notebook examines **Hierarchical Clustering**, an algorithm that builds nested clusters in a tree structure (dendrogram). We explore different linkage criteria, visualize the dendrogram, and discuss how to select the optimal number of clusters.
 
 ## Getting Started
 
 ### Prerequisites
-- Python 3.x
+- Python 3.12.7
 - Jupyter Notebook
 - Common Python libraries such as:
   - `numpy`
