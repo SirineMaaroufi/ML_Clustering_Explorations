@@ -30,3 +30,12 @@ This repository contains a series of notebooks exploring various clustering tech
 Install the required libraries using:
 ```bash
 pip install numpy pandas matplotlib seaborn scikit-learn
+
+### Repo Structure
+ML_Clustering_Explorations/
+│
+├── KMeans_vs_DBSCAN.ipynb
+├── GMM.ipynb
+├── PCA.ipynb
+└── Hierarchical_Clustering.ipynb
+
